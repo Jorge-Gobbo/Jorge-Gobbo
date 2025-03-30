@@ -34,7 +34,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Jorge-Gobbo/Jorge-Gobbo/output/snake.svg" alt="Snake animation" />
-
-###
